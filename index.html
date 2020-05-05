@@ -2,12 +2,11 @@
 layout: default
 title: Home
 ---
-
 <h2>Recent Posts</h2>
 <ul>
     {% for post in site.posts %}
     <li>
-        <h3 class="blog-list-title">
+        <h3>
             <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
         </h3>
         <p class="blog-metadata">{{ post.date | date_to_long_string }}</p>
