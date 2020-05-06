@@ -12,6 +12,14 @@ In this page, I'll try to put some information related to this blog and myself i
 
     **A**: The process of DIY projects are very joyful and important to me, I wish I could collect and keep all of them forever. Besides, a blog like this can help me to gather all types of media, like texts, images, sounds and videos in a single place, which is very helpful for better "recall" of my memory.
 
+* **Q**: What does the blog name "Flying Watermelon" mean?
+
+    **A**: "Flying", because my first serious DIY project is a drone. "Watermelon", it is just a small detail, never mind :-)
+
+* **Q**: Doesn't the blog look old-fasioned?
+
+    **A**: Yes, it is intended. It gurantees to bring you the most authentic HTML feeling.
+
 * **Q**: Who are you?
 
     **A**: I'm Zihan. I love self-made stuff, although other people might think they are ugly. I like all the activities that can actively moving myself around, for example hiking, swimming, riding a bicycle, riding a motorcycle and driving a car. And I always want to see how theories work in the reality.
