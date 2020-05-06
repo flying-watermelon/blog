@@ -27,3 +27,11 @@ In this page, I'll try to put some information related to this blog and myself i
 * **Q**: What is your profession?
 
     **A**: I'm a coder. But to be honest, I'm a little bit bored of it at the moment. That's why I want to do something different, something more related to the physical world.
+
+* **Q**: Your educational background?
+
+    **A**: B.Sc. of computer science (or informatics actually). Currently trying to finish my master degree of science in "University of Internet (UoI)".
+    
+    I'm trying to find tutorials, textbooks, literatures and video courses about mathmatics, physics, control theory, electronics, etc. from the Internet and then trying to teach myself or turn to my friends for help when I'm stuck.
+    
+    The only problem is that I'll never get a graduation certificate. But personally I don't care, they are just a piece of paper anyways. I've learnt what I wanted to learn, that's the most important thing.
