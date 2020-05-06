@@ -2,13 +2,20 @@
 layout: default
 title: About
 ---
-### About the Author
-I'm Zihan, an average person who loves all the activities that can move around (except running) and loves to see how theories work in the reality.
+In this page, I'll try to put some information related to this blog and myself in a Q&A form.
 
-I love all the activities that can move me around, yes, literally. I like hiking, swimming, riding a bicycle, riding a motorcycle, driving a car. If I have a chace, I'll definitely also learn how to diving, sky diving, flying a plane, flying a balloon, piloting a ship, piloting a spaceship, teleporting, and so on. The only activity that I don't like is running, because for me, it is draining too much energy in a short period of time, but brings too little fun.
+* **Q**: What is this blog about?
 
-I love to see how theories work in the reality. That's the reason why I've finished B.Sc. in computer science (or Informatics) instead of mechanical engineering. I don't have much spare money at that time, and with a laptop, I can try out most of the theories that I've learnt in computer science, but I can't buy the materials to build the mechanical structures that I've learnt in mechanical engineering.
+    **A**: It is a place to record the process of some of my DIY projects.
 
-Now I've been a coder (I don't like the title Software Developer or Engineer, they sound too elite to me) for several years. In these years, I've tried out both backend and frontend jobs. And somehow I have a gut feeling, that no matter what I'm coding, I'm just manipulating the data every day, mapping the input in a certain manner to the output. Somehow I feel a little bit bored with only manipulating the data. I want to learn and do something different.
+* **Q**: Why start a blog?
 
-### About the Blog
+    **A**: The process of DIY projects are very joyful and important to me, I wish I could collect and keep all of them forever. Besides, a blog like this can help me to gather all types of media, like texts, images, sounds and videos in a single place, which is very helpful for better "recall" of my memory.
+
+* **Q**: Who are you?
+
+    **A**: I'm Zihan. I love self-made stuff, although other people might think they are ugly. I like all the activities that can actively moving myself around, for example hiking, swimming, riding a bicycle, riding a motorcycle and driving a car. And I always want to see how theories work in the reality.
+
+* **Q**: What is your profession?
+
+    **A**: I'm a coder. But to be honest, I'm a little bit bored of it at the moment. That's why I want to do something different, something more related to the physical world.
