@@ -22,7 +22,7 @@ In this page, I'll try to put some information related to this blog and myself i
 
 * **Q**: Who are you?
 
-    **A**: I'm Zihan. I love self-made stuff, although other people might think they are ugly. I like all the activities that can actively moving myself around, for example hiking, swimming, riding a bicycle, riding a motorcycle and driving a car. And I always want to see how theories work in the reality.
+    **A**: I'm Zihan. I love self-made stuff, although other people might think they are ugly. Besides, I like all the activities that can actively move myself around, for example, hiking, swimming, riding a bicycle, riding a scooter, and driving a car. If I had the chance, I'll also try to learn how to dive, sky-dive, fly a plane, pilot a ship, pilot a spaceship, or teleport. Last but not least, I always want to see how theories work in reality.
 
 * **Q**: What is your profession?
 
