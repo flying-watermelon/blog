@@ -8,7 +8,7 @@ This project all starts with the word "PID", a method in control theory that is 
 
 The physics simulation goes quite well. However, I didn't feel that I'm satisfied. I believe that I can do far more than that, and actually Im eager to do more. So I extended the simulation program, implemented a PID controller to stabilize a virtual drone in the simulation program. It works very well indeed.
 
-![Drone Simulator]({{ "/assets/img/2020-05-07-drone-simulator" | absolute_url }})
+![Drone Simulator]({{ "/assets/img/2020-05-07-drone-simulator.png" | absolute_url }})
 
 Since the drone is already flying in the virtual world now. There is no excuse anymore not to bring it into the reality. But the problem is, I haven't ever touched a drone before, actually I even haven't seen someone flying a drone closely. It is very hard for me to imagine what do people do to control a drone. It is some YouTube videos that helped me out. For example the [DJI Tutorial](https://www.youtube.com/watch?v=QwMFK9J462A) and [a wonderful tutorial series by Joshua Bardwell](https://www.youtube.com/watch?v=391D5dX7LKg) for the FPV flying style.
 
