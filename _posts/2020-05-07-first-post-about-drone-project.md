@@ -1,6 +1,6 @@
 ---
 layout: post
-title: P001. First Post About Drone Project
+title: P000. First Post About Drone Project
 ---
 Although named "first post", this post is already too late for recording the whole process of the drone project now. I've been working on this project for several weeks now. It has made a lot of fun.
 
@@ -14,4 +14,4 @@ Since the drone is already flying in the virtual world now. There is no excuse a
 
 Currently, my plan about this project is clear. I'd like to try my best to build a selfmade drone with an Arduino, instead of using any existing flight controller chip. If I had a chance, I'll design the carbon fiber frame by myself. And if I can manage to finish that, I'd like to make the whole project open-source, so that everyone can easily make his/her own modified copy from it.
 
-At the moment, I've already finished porting some source code from python to C for Arduino. Next step I'll try to build the radio controller for Arduino, and then connect them to the simulation program. And then I'll be able to control the virtual drone in the simulation program. After that, I'll purchase some parts to build the physical drone.
+At the moment, I've already finished porting some source code from python to C++ for Arduino. And I'm also trying to rewrite the physics simulation program with C++. By using serial port communication, I'll be able to communicate between Arduino program and physics simulation program. In this way, I'll be able to replace the flight controlling part previously built in the physics simulation program with Arduino program. This will allow me to test the Arduino flight control program while not crashing a lot of drones in the real world. In the future, if I still have passion on improving the performance of the drones, I can also reuse the physics simulation program.
