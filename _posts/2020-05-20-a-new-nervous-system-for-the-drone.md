@@ -1,0 +1,17 @@
+---
+layout: post
+title: P000. A New "Nervous System" for the Drone
+---
+The flight controller of a drone works like a nervous system. It senses the external changes, understands them and makes decission, and then reacts to them by adjusting its own state, so that it can adapt itself to the ever-changing world.
+
+In the middle school, I've learnt something about the nervous system of human beings. It is said that the brain only handles the complex behaviours like talking or solving a mathmatical problem. A lot of other simple behaviours or survival reactions are handled by the spinal cord instead of the brain, because spinal cord can react faster than the brain. In this way, human beings are able to avoid dangerous situation as soon as possible, while still keeping the abilities to finish complex tasks.
+
+From these facts, it seems that Beaglebone Black could be a perfect solution for some use cases like drone controller. It has a powerful CPU acting like the brain, which can perform computation very efficiently, so that the drone is able to finish some complex tasks like graphics recognition. In the meanwhile, it also comes with two PRUs acting like spinal cord. They don't have an operating system as an extra layer running above it, so they are perfect for doing some "real-time" tasks like balance keeping.
+
+However, this kind of naive thoughts only works in the imagination world. In the reality, it is only the beginning of the struggling.
+
+Several days ago I have purchased the Beaglebone Black for around 50 Euros. Immediately after I've received it, I started with PRU programming. For several days after that, I've put a lot of efforts into it, but the outcome just didn't compensate the efforts.
+
+The main problem about PRU programming is that there is nothing called "eco-system" for it. The technology looks like a commercial secret, and the hobbyists are trying hard to reverse-engineer it. There aren't many tutorials written for explaining how PRU works and how to start with PRU programming. Besides, the official documentation is hard to understand and the official wiki seems to be incomplete. The number of libraries for PRU programming is also close to zero, which makes the situation even worse. If I want to use PRU, I have to at least understand one thing or two about how hardware and operating system works, so that I can understand the information written in the official documentation, and then try to guess how it works from the incomplete official wiki, and finally write my own code almost from the scratch. I started to question my decission about Beaglebone after I've realized the problems. 
+
+Walking in the darkness brings no fun, because you are not sure whether you are in the right direction. After having searched for the similar projects, finally I've gained some confidence. At the moment I'm writing this post, there are already 7 different [registered projects](https://beagleboard.org/p/projects/tags/drones), where people have made drones with Beagleboards and some of them even with PRUs. And a wonderful UAV flight controller library [Ardupilot](https://ardupilot.org/copter/docs/common-autopilots.html) is also supporting Beagleboards officially with utilizing the PRUs. It probably means that, this is very hard to me for now, but this is definitely not a wrong choice for the future. And if I continue with my DIY hobby, sooner or later I'll need some knowledge about hardware and operating system. There is no excuse not to start learning now.
