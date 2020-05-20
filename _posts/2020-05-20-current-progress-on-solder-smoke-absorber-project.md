@@ -1,6 +1,6 @@
 ---
 layout: post
-title: P002. Solder Smoke Absorber
+title: P002. Current Progress on Solder Smoke Absorber Project
 ---
 Some people were talking about the harmful solder smoke in the channel of a DIY club. While reading the discussion, I've decided to get myslef a solder smoke absorber. Immediately after I've announced it, one of the people said something like why bother buying one, because it is simply a fan with a carbon fiber sponge. And, true, I probably can build one instead of buying it.
 
