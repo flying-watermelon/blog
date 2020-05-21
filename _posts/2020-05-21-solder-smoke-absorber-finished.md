@@ -12,6 +12,6 @@ And it works to some extent. If I put the solder iron close enough to it, the sm
 
 ![post-image]({{ "/assets/img/2020-05-21-solder-smoke-absorber-finished-2.png" | absolute_url }})
 
-Although not powerful enough, this little thing is not useless. I've tried to solder with and without this smoke absorber. First time applying it, and do some soldering work. And then put the absorber away, continue soldering. Immediately I've noticed the difference, since I can sense the heat mixed with the smoke of the flux and the solder wire hiting my face directly. So actually I'm quite satisfying with this simple piece of work.
+Although not powerful enough, this little thing is not useless. I've tried to solder with and without this smoke absorber. First time applying it, and do some soldering work. And then put the absorber away, continue soldering. Immediately I've noticed the difference, since without the absorber, I can sense the heat mixed with the smoke of the flux and the solder wire hiting my face directly. So actually I'm quite satisfying with this simple piece of work.
 
 ![post-image]({{ "/assets/img/2020-05-21-solder-smoke-absorber-finished-3.png" | absolute_url }})
