@@ -2,9 +2,9 @@
 layout: post
 title: P002. Current Progress on Solder Smoke Absorber Project
 ---
-Some people were talking about the harmful solder smoke in the channel of a DIY club. While reading the discussion, I've decided to get myslef a solder smoke absorber. Immediately after I've announced it, one of the people said something like why bother buying one, because it is simply a fan with a carbon fiber sponge. And, true, I probably can build one instead of buying it.
+Some people were talking about the harmful solder smoke in the channel of the DIY club that I've joined. While reading the discussion, I've decided to get myself a solder smoke absorber. Immediately after I've announced it, someone said something like why bother buying one, because it is simply a fan with a carbon fiber sponge. Indeed, I probably should build one instead of buying it.
 
-As the one in the channel says, I need a fan and a piece of carbon fiber sponge. Other than those, I also need a frame where I can mount the fan and the sponge. I've got a fan from one of my colleague. He has an old CPU fan that he won't use anymore. After I've got the fan, I started to test it directly. According to the information online, the power supply should be 12V. So I attached it to the DC power, and the fan started to spin.
+As they say, I need a fan and a piece of carbon fiber sponge. Besides, I also need a frame where I can mount the fan and the sponge. I've got a fan from one of my colleague. He has an old CPU fan that he won't use anymore. After I've got the fan, I started to test it directly. According to the information online, the power supply should be 12V. So I attached it to the DC power, and the fan started to spin.
 
 ![post-image]({{ "/assets/img/2020-05-20-fan-with-dc-power.png" | absolute_url }})
 
