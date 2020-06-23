@@ -13,10 +13,12 @@ I've finished the project on May 21st, 2020. Although it is not very efficient, 
 #### P000. Open-source Drone
 In this project I'll try to build a drone with Arduino, carbon fiber board and other necessary components. After that I'll publish all related source code, 2D/3D-models and documentations, so that other people can easily build a copy.
 
-#### P003. Eco-System for PRU Programming
-After struggled for a while, I've decided to start this project. In my opinion, the eco-system of PRU programming for AM335x processors is far from complete. There is no easy and clear tutorial for the beginners to start with PRU programming. Actually there is a need for this kind of beginner tutorial, because there are definitely people like me, who are interested in this topic as a hobbyist without strong hardware and operating system development background. So I'd like to put my learning about PRU programming in a tutorial form.
-
-### Planned Project
-
 #### P001. Camping Van
 I'd like to convert a transporter to a simple camping van for weekend travelling. It will act as a moving tent, and I hope it can help me save some money for booking the hotel room. It won't be over complex. After convertion, it should be still able to used for daily affairs like shopping or commute in a rainy day, and so on.
+
+#### P003. Inter-Chip communication Library
+Even for the same sensor, if we are using it on different hardware platforms (e.g. different micro-controllers or micro-computers), one should also use different sensor drivers for it, because each hardware platforms have their own ways to deal with the inter-chip communication protocols like I2C and SPI. However, it is a waste of time, because people is implementing the same logic to communicate with the sensor again and again on different hardware platforms.
+
+After having read the repository of [i2cdevlib](https://github.com/jrowberg/i2cdevlib), I've decided to make an interface between the hardware platform specific implementation, and the sensor specific implementation. In this case, they can change separately. If we want to port a sensor driver to another micro-controller or micro-computer, we only need to change the hardware platform specific implementation, and no need to touch the sensor communication part, which I think will save a lot of time for myself. 
+
+### Planned Project
