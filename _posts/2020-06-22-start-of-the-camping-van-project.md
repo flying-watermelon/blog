@@ -15,10 +15,10 @@ However, there is still glue gum attaching to the metal floor. That looks very u
 
 ![post-image]({{ "/assets/img/2020-06-22-before-removing-gum.png" | absolute_url }})
 
-It is not very hard to remove it, because it attaches to itself very good. Once it forms a gum ball, then I can push the ball to wherever still has the rest of the glue gum, and pull the ball up, then the glue gum rest will be attached to the gum ball. Not hard, but it is still a time-consuming task. After almost 1 hour cleaning, I've finally got a super big gum ball with all the glue gum rest in it, which can be barely hold in one hand.
+It is not very hard to remove the glue gum though, because it attaches to itself very good. Once it forms a gum ball, then I can push the ball to wherever the rest of the glue gum is, and pull the ball up, then the glue gum rest will be attached to the gum ball instead of stay on the metal floor. Although not hard, it is still a time-consuming task. After almost 1 hour cleaning, I've finally got a super big gum ball with all the glue gum rest in it, which can be barely hold in one hand.
 
 ![post-image]({{ "/assets/img/2020-06-22-after-removing-gum.png" | absolute_url }})
 
-There is still quite a lot of dirt, dust and even missing screws on the metal floor. But comparing to the glue gum, they are super easy to be cleand up. After having wiped out all the dirty stuff, the metal floor in the car is shining the so-called "Danish Blue" color, which looks quite nice!
+There is still quite a lot of dirt, dust and even missing screws on the metal floor. But comparing to the glue gum, they are super easy to be cleaned up. After having wiped out all the dirty stuff, the metal floor in the car is shining the so-called "Danish Blue" color, which looks quite nice!
 
 ![post-image]({{ "/assets/img/2020-06-22-all-cleaned-up.png" | absolute_url }})
