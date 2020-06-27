@@ -23,3 +23,5 @@ The tests also goes very well. But the most exciting news is, I've used the inte
 The way I'm testing the sensor driver is simply writing to the sensor that I want to read the register 0x75, which is the so called "who am I" register. This register contains the I2C address that this sensor is connected to. After the program is compiled with the Raspberry Pi 4 implementation of the interface and executed, the result shows exactly the I2C address of the sensor.
 
 ![post-image]({{ "/assets/img/2020-06-23-mpu6050-whoami.png" | absolute_url }})
+
+So, now there seems to be no need to keep the rasp-peri library. After this little success, I've remote the repository of rasp-peri completely.
