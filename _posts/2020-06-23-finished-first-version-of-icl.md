@@ -18,7 +18,7 @@ Since I have already worked on rasp-peri library, make the interface is very sim
 
 The tests also goes very well. But the most exciting news is, I've used the interface with Raspberry Pi 4 library to write the most simplest sensor driver for MPU6050, and it is very successful!
 
-![post-image]({{ "2020-06-23-raspberry-pi-mpu6050-wiring.png" | absolute_url }})
+![post-image]({{ "/assets/img/2020-06-23-raspberry-pi-mpu6050-wiring.png" | absolute_url }})
 
 The way I'm testing the sensor driver is simply writing to the sensor that I want to read the register 0x75, which is the so called "who am I" register. This register contains the I2C address that this sensor is connected to. After the program is compiled with the Raspberry Pi 4 implementation of the interface and executed, the result shows exactly the I2C address of the sensor.
 
