@@ -11,7 +11,7 @@ Currently, the library is supporting the very basic functionalities of GPIO, I2C
 
 After finished the final refactoring of the library, I was starting to think about whether I should announce this library in the Raspberry Pi community or not, but soon I've figured out that it is probably not the best time to do so. For the potential users, this library is still far from feature rich. For myself, I want to continue working on my drone project. To announce it now means nothing to me except a huge workload. Maybe I can announce it after I've finished my drone project.
 
-![post-image]({{ "/assets/img/2020-06-11-spi-wiring.png" | absolute_url }})
+![post-image]({{ "/assets/img/2020-06-11-spi-wiring.png" | absolute_url }}) 
 
 ![post-image]({{ "/assets/img/2020-06-11-i2c-wiring.png" | absolute_url }})
 
